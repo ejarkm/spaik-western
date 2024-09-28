@@ -1,0 +1,9 @@
+numpy
+ipyevents
+ipywidgets
+matplotlib
+pillow
+torch
+pandas
+jupyter
+openpyxl
